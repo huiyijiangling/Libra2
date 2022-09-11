@@ -1,4 +1,4 @@
-Package: Libra2
+Package: Libra_avoid_dup
 Title: Differential expression utilizing biological replicates in single-cell data
 Version: 1.0.0
 Authors@R: c(
